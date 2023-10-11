@@ -11,5 +11,8 @@ public class Twelve {
                 System.out.println(i);
             }
         }
+        // forEach
+        for (int ele : numbers)
+            System.out.println(ele);
     }
 }

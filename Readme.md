@@ -1,3 +1,9 @@
+Shortcuts
+psvm for public static void main
+sout for sytem.out.println
+
+=======================
+
 Object
 
 An object is an instance of a class. It is a fundamental concept in object-oriented programming (OOP). Objects represent real-world entities and are created from class blueprints.
